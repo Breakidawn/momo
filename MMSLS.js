@@ -1,6 +1,6 @@
 
 const MMSLS = [
-"https://www.maimemo.com/share/page?uid=25379641&pid=a3c1365681c503158ca8342a3f28b5c8&tid=97490b7c73df8319794ff120db4ae5ea"
+"https://www.maimemo.com/share/page?uid=25379641&pid=f251cd40cf2fcc9622eb60e2446973d7&tid=73f8ff88096fa38f01953601c783e70a"
 ]
 /**
  * 生成随机数字
